@@ -1,8 +1,10 @@
-Miha Flisek - 10
-Jaka Fortunat - 8
-Jaka Basej - 6
-Luka Krašna -6
-Matija Saksida - 6
-Nik Vidmar - 6
-Alen Bizjak - 7
-Gašper Govekar - 0
+Ime in priimek igralca: seštevek doseženih točk | seštevek zmag | seštevek porazov | seštevek izenačenih iger | število udeleženih turnirjev | povprečje doseženih točk na turnir
+
+Miha Flisek: 10 | 3 | 0 | 1 | 1 | 10
+Jaka Fortunat: 8 | 2 | 0 | 2 | 1 | 8
+Alen Bizjak: 7 | 2 | 1 | 1 | 1 | 7
+Jaka Basej: 6 | 2 | 2 | 0 | 1 | 6
+Luka Krašna: 6 | 2 | 2 | 0 | 1 | 6
+Matija Saksida: 6 | 2 | 2 | 0 | 1 | 6
+Nik Vidmar: 6 | 2 | 2 | 0 | 1 | 6
+Gašper Govekar: 0 | 0 | 4 | 0 | 1 | 0
